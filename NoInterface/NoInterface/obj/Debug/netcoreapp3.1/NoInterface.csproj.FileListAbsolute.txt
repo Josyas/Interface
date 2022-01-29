@@ -1,0 +1,14 @@
+D:\VisualStudioProjetos\NoInterface\NoInterface\bin\Debug\netcoreapp3.1\NoInterface.exe
+D:\VisualStudioProjetos\NoInterface\NoInterface\bin\Debug\netcoreapp3.1\NoInterface.deps.json
+D:\VisualStudioProjetos\NoInterface\NoInterface\bin\Debug\netcoreapp3.1\NoInterface.runtimeconfig.json
+D:\VisualStudioProjetos\NoInterface\NoInterface\bin\Debug\netcoreapp3.1\NoInterface.runtimeconfig.dev.json
+D:\VisualStudioProjetos\NoInterface\NoInterface\bin\Debug\netcoreapp3.1\NoInterface.dll
+D:\VisualStudioProjetos\NoInterface\NoInterface\bin\Debug\netcoreapp3.1\NoInterface.pdb
+D:\VisualStudioProjetos\NoInterface\NoInterface\obj\Debug\netcoreapp3.1\NoInterface.csproj.AssemblyReference.cache
+D:\VisualStudioProjetos\NoInterface\NoInterface\obj\Debug\netcoreapp3.1\NoInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjetos\NoInterface\NoInterface\obj\Debug\netcoreapp3.1\NoInterface.AssemblyInfoInputs.cache
+D:\VisualStudioProjetos\NoInterface\NoInterface\obj\Debug\netcoreapp3.1\NoInterface.AssemblyInfo.cs
+D:\VisualStudioProjetos\NoInterface\NoInterface\obj\Debug\netcoreapp3.1\NoInterface.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjetos\NoInterface\NoInterface\obj\Debug\netcoreapp3.1\NoInterface.dll
+D:\VisualStudioProjetos\NoInterface\NoInterface\obj\Debug\netcoreapp3.1\NoInterface.pdb
+D:\VisualStudioProjetos\NoInterface\NoInterface\obj\Debug\netcoreapp3.1\NoInterface.genruntimeconfig.cache
